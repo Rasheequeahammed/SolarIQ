@@ -26,9 +26,10 @@ Manual inspections often lead to undetected defects in solar panels, inverters, 
 ## Deployment Video 🎥
 Watch the deployment video for **SolarIQ** to see the system in action:
 
-[![Watch the video](https://img.youtube.com/vi/Z6vP4yLRLZc/hqdefault.jpg)](https://github.com/Rasheequeahammed/SolarIQ/blob/main/DEPLOYMENT.mp4)
+[![Watch Video](https://img.shields.io/badge/-Watch%20Video-FF0000?&style=for-the-badge&logo=video&logoColor=white)](https://github.com/Rasheequeahammed/SolarIQ/blob/main/DEPLOYMENT.mp4)
+ 
 
----
+
 
 
 ## Projects
