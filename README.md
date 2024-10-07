@@ -23,6 +23,12 @@ Manual inspections often lead to undetected defects in solar panels, inverters, 
 - **Machine Learning Success**: Achieve an accuracy of at least 95%.
 - **Economic Success**: Reduce maintenance costs by 15% and increase return on investment (ROI) by 20%.
 
+## Deployment Video 🎥
+Watch the deployment video for **SolarIQ** to see the system in action:
+
+[![Watch the video](https://img.youtube.com/vi/Z6vP4yLRLZc/hqdefault.jpg)](https://github.com/Rasheequeahammed/SolarIQ/blob/main/DEPLOYMENT.mp4)
+
+---
 
 
 ## Projects
